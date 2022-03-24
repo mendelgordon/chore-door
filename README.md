@@ -1,7 +1,7 @@
 # chore-door
 Chore Door Game
 
-[Click here to play the game.](https://mendelgordon.github.io/chore-door/)
+[Click here to play.](https://mendelgordon.github.io/chore-door/)
 
 ## Instructions
 1.	Hiding behind one of these doors is the ChoreBot.
